@@ -1,0 +1,15 @@
+{
+  "name": "pig-latin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pig-latin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "pig-node": "./pig-latin.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

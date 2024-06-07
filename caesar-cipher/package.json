@@ -1,0 +1,15 @@
+{
+  "name": "caesar-cipher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "caesar-cipher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin":{
+    "caesar-node": "./caesar-cipher.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
